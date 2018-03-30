@@ -14,7 +14,7 @@ PROJECT.NET 1ST - MANAGER CALENDAR FOR TEACHERS</br>
  - ....</br>
  <h2>Video Demo</h2></br>
  <center>
-  <a href="https://www.youtube.com/watch?v=sAJ-zsL2R-M&t="><img src="https://raw.githubusercontent.com/mchiensd/PROJECT.NET-1ST---MANAGER-CALENDAR-FOR-TEACHERS/master/Image%20Screenshot/7.PNG"><a>
+  <a href="https://www.youtube.com/watch?v=sAJ-zsL2R-M&t="><img src="https://raw.githubusercontent.com/mchiensd/PROJECT.NET-1ST---MANAGER-CALENDAR-FOR-TEACHERS/master/Image%20Screenshot/7.1.PNG"><a>
 </center>
  <h2>Some Image</h2></br>
  <center>
