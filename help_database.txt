@@ -1,0 +1,3 @@
+﻿Tạo 1 database mớii có tên là QuanLyMoiGiang
+Vào Database mới tạo dó, add 1 new query. copy cái code paste dô chạy.
+Nhớ Chọn dúng phiên bản sql 

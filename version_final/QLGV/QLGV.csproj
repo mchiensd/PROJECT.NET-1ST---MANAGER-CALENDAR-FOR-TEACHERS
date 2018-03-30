@@ -1,0 +1,635 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BEE1E682-1B0D-4B82-8204-6E1BA046A139}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QLGV</RootNamespace>
+    <AssemblyName>QLGV</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>mortarboard.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ButtonByNhom">
+      <HintPath>..\..\ButtonByNhom.dll</HintPath>
+    </Reference>
+    <Reference Include="buttonplaystop">
+      <HintPath>..\buttonplaystop.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Control\ChitietCtrl.cs" />
+    <Compile Include="Control\ExportToExcel.cs" />
+    <Compile Include="Control\ExportToExcelct.cs" />
+    <Compile Include="Control\GiangVienCtrl.cs" />
+    <Compile Include="Control\LopHocCtrl.cs" />
+    <Compile Include="Control\MonHocCtrl.cs" />
+    <Compile Include="HOTROSQL\HOTRO.cs" />
+    <Compile Include="HOTROSQL\LOGIN.cs" />
+    <Compile Include="HOTROSQL\XULY_LOGIN.cs" />
+    <Compile Include="Model\ChiTietGVMod.cs" />
+    <Compile Include="Model\GiangVienMod.cs" />
+    <Compile Include="Model\LopHocMod.cs" />
+    <Compile Include="Model\MonHocMod.cs" />
+    <Compile Include="Object\ChiTietMG.cs" />
+    <Compile Include="Object\GiangVien.cs" />
+    <Compile Include="Object\LopHoc.cs" />
+    <Compile Include="Object\MonHoc.cs" />
+    <Compile Include="View\DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\DangNhap.Designer.cs">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\GiaoVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\GiaoVien.Designer.cs">
+      <DependentUpon>GiaoVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\ConnecttoSQL.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View\FormMonHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FormMonHoc.Designer.cs">
+      <DependentUpon>FormMonHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FLopHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FLopHoc.Designer.cs">
+      <DependentUpon>FLopHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\MoiGiang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\MoiGiang.Designer.cs">
+      <DependentUpon>MoiGiang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Thongtinnhom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Thongtinnhom.Designer.cs">
+      <DependentUpon>Thongtinnhom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\User.Designer.cs">
+      <DependentUpon>User.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="View\DangNhap.resx">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\GiaoVien.resx">
+      <DependentUpon>GiaoVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="View\FormMonHoc.resx">
+      <DependentUpon>FormMonHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FLopHoc.resx">
+      <DependentUpon>FLopHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\MoiGiang.resx">
+      <DependentUpon>MoiGiang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Thongtinnhom.resx">
+      <DependentUpon>Thongtinnhom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\User.resx">
+      <DependentUpon>User.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tenmon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tbtengv.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tbtengv1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tbtengv2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tbtengv11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tbdt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tbem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tbngsinh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tbgt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tbdc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tbdcc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tbtt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gb1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gb2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gb11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gb3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gb12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\them.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\them1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xoa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\luu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\huy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\them3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\them2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xoa2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xoa3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\them21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sua2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sua3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\luulai2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\luulai3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\huybo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\huybo3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tieude.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\txformgiaovien.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bttim.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bttim1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bttim11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bttim12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bttim13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tbtt1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bttim14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\txformgiaovien1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tbtt2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sotiet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mamon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tbtt3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\them11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\suA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xoa1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\luulai31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\luu1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\huy1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gbmn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tieudemn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tieudemn1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\them31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sua31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xoa31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\them32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\luulai32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\huybo31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\them22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sua21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xoa21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\luulai21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\huybo21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bt22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bt11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tb2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tb21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tbmkdn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tbtendn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thongitndangnhap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thongitndangnhap1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thongitndangnhap2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bt21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bt12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\graduate.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giaovien.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giaovien1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Monhoc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giaovien2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giaovien3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Monhoc22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="MediaPlayer">
+      <Guid>{22D6F304-B0F6-11D0-94AB-0080C74C7E95}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gblophoc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gbtieudemonhoc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tenlop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tenlop1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\malop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lophoc1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\moigiang1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lophco2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\moigiang2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\moigiang21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\moigiang11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mamon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\malop1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mamoi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\batdau.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ketthuc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gbmoigiang.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tieudemoigiang.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tieudeuser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gbuser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tendangnhap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mat khau.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quyen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tbtengv12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nguoidung1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nguoidung2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tieudeuser1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\error1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\error2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\excel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\excel2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\excel11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\excel22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thongitn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="mortarboard.ico" />
+    <None Include="Resources\anhnhom.gif" />
+    <None Include="Resources\giphy %281%29.gif" />
+    <None Include="Resources\giphy.gif" />
+    <None Include="Resources\Nhóm1 copy.png" />
+    <None Include="Resources\Nhóm11.png" />
+    <None Include="Resources\Nhóm1.png" />
+    <None Include="Resources\Nhóm.png" />
+    <None Include="Resources\gb1moi.png" />
+    <None Include="Resources\gb13.png" />
+    <None Include="Resources\gb1user.png" />
+    <None Include="Resources\gb1mon.png" />
+    <None Include="Resources\gblop.png" />
+    <None Include="Resources\play-button1.png" />
+    <None Include="Resources\pause2.png" />
+    <None Include="Resources\play-button.png" />
+    <None Include="Resources\pause1.png" />
+    <None Include="Resources\pause.png" />
+    <None Include="Resources\play.png" />
+    <None Include="Resources\tamdung.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

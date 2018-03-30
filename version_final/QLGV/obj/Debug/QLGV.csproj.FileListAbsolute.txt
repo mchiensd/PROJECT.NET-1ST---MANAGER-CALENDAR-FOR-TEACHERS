@@ -1,0 +1,188 @@
+C:\Users\Hoang Phung\Desktop\QLGV\QLGV\bin\Debug\QLGV.exe.config
+C:\Users\Hoang Phung\Desktop\QLGV\QLGV\obj\Debug\QLGV.Form1.resources
+C:\Users\Hoang Phung\Desktop\QLGV\QLGV\obj\Debug\QLGV.Properties.Resources.resources
+C:\Users\Hoang Phung\Desktop\QLGV\QLGV\obj\Debug\QLGV.csproj.GenerateResource.Cache
+C:\Users\Hoang Phung\Desktop\QLGV\QLGV\bin\Debug\QLGV.exe
+C:\Users\Hoang Phung\Desktop\QLGV\QLGV\bin\Debug\QLGV.pdb
+C:\Users\Hoang Phung\Desktop\QLGV\QLGV\obj\Debug\QLGV.exe
+C:\Users\Hoang Phung\Desktop\QLGV\QLGV\obj\Debug\QLGV.pdb
+C:\Users\Hoang Phung\Desktop\QLGV\QLGV\obj\Debug\QLGV.csprojResolveAssemblyReference.cache
+C:\Users\Hoang Phung\Desktop\QLGV\QLGV\obj\Debug\QLGV.View.FormMonHoc.resources
+C:\Users\Hoang Phung\Desktop\QLGV\QLGV\obj\Debug\QLGV.View.DangNhap.resources
+C:\Users\Hoang Phung\Desktop\QLGV\QLGV\obj\Debug\QLGV.View.Main.resources
+C:\Users\Hoang Phung\Desktop\QLGV - Copy\QLGV\bin\Debug\QLGV.exe.config
+C:\Users\Hoang Phung\Desktop\QLGV - Copy\QLGV\obj\Debug\QLGV.exe
+C:\Users\Hoang Phung\Desktop\QLGV - Copy\QLGV\obj\Debug\QLGV.pdb
+C:\Users\Hoang Phung\Desktop\QLGV - Copy\QLGV\bin\Debug\QLGV.exe
+C:\Users\Hoang Phung\Desktop\QLGV - Copy\QLGV\bin\Debug\QLGV.pdb
+C:\Users\Hoang Phung\Desktop\QLGV - Copy\QLGV\obj\Debug\QLGV.csprojResolveAssemblyReference.cache
+C:\Users\Hoang Phung\Desktop\QLGV - Copy\QLGV\obj\Debug\QLGV.View.DangNhap.resources
+C:\Users\Hoang Phung\Desktop\QLGV - Copy\QLGV\obj\Debug\QLGV.Form1.resources
+C:\Users\Hoang Phung\Desktop\QLGV - Copy\QLGV\obj\Debug\QLGV.Properties.Resources.resources
+C:\Users\Hoang Phung\Desktop\QLGV - Copy\QLGV\obj\Debug\QLGV.View.FormMonHoc.resources
+C:\Users\Hoang Phung\Desktop\QLGV - Copy\QLGV\obj\Debug\QLGV.View.Main.resources
+C:\Users\Hoang Phung\Desktop\QLGV - Copy\QLGV\obj\Debug\QLGV.csproj.GenerateResource.Cache
+C:\Users\Hoang Phung\Desktop\QLGV - Copy\QLGV\obj\Debug\QLGV.View.LopHoc.resources
+C:\Users\Hoang Phung\Desktop\QLGV - Copy\QLGV\obj\Debug\QLGV.View.MoiGiang.resources
+C:\Users\Hoang Phung\Desktop\QLGV - Copy\QLGV\obj\Debug\QLGV.View.User.resources
+C:\Users\Hoang Phung\Desktop\QLGV - Giao dien\QLGV\bin\Debug\QLGV.exe.config
+C:\Users\Hoang Phung\Desktop\QLGV - Giao dien\QLGV\obj\Debug\QLGV.exe
+C:\Users\Hoang Phung\Desktop\QLGV - Giao dien\QLGV\obj\Debug\QLGV.pdb
+C:\Users\Hoang Phung\Desktop\QLGV - Giao dien\QLGV\bin\Debug\QLGV.exe
+C:\Users\Hoang Phung\Desktop\QLGV - Giao dien\QLGV\bin\Debug\QLGV.pdb
+C:\Users\Hoang Phung\Desktop\QLGV - Giao dien\QLGV\obj\Debug\QLGV.csprojResolveAssemblyReference.cache
+C:\Users\Hoang Phung\Desktop\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.DangNhap.resources
+C:\Users\Hoang Phung\Desktop\QLGV - Giao dien\QLGV\obj\Debug\QLGV.Form1.resources
+C:\Users\Hoang Phung\Desktop\QLGV - Giao dien\QLGV\obj\Debug\QLGV.Properties.Resources.resources
+C:\Users\Hoang Phung\Desktop\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.FormMonHoc.resources
+C:\Users\Hoang Phung\Desktop\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.LopHoc.resources
+C:\Users\Hoang Phung\Desktop\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.Main.resources
+C:\Users\Hoang Phung\Desktop\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.MoiGiang.resources
+C:\Users\Hoang Phung\Desktop\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.User.resources
+C:\Users\Hoang Phung\Desktop\QLGV - Giao dien\QLGV\obj\Debug\QLGV.csproj.GenerateResource.Cache
+C:\Users\Hoang Phung\Desktop\QLGV - Giao dien\QLGV\obj\Debug\QLGV.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\Phung\QLGV - Giao dien\QLGV\bin\Debug\QLGV.exe.config
+C:\Users\HP\Desktop\Phung\QLGV - Giao dien\QLGV\obj\Debug\QLGV.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\Phung\QLGV - Giao dien\QLGV\obj\Debug\QLGV.exe
+C:\Users\HP\Desktop\Phung\QLGV - Giao dien\QLGV\obj\Debug\QLGV.pdb
+C:\Users\HP\Desktop\Phung\QLGV - Giao dien\QLGV\bin\Debug\QLGV.exe
+C:\Users\HP\Desktop\Phung\QLGV - Giao dien\QLGV\bin\Debug\QLGV.pdb
+C:\Users\HP\Desktop\Phung\QLGV - Giao dien\QLGV\obj\Debug\QLGV.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Phung\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.DangNhap.resources
+C:\Users\HP\Desktop\Phung\QLGV - Giao dien\QLGV\obj\Debug\QLGV.Form1.resources
+C:\Users\HP\Desktop\Phung\QLGV - Giao dien\QLGV\obj\Debug\QLGV.Properties.Resources.resources
+C:\Users\HP\Desktop\Phung\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.FormMonHoc.resources
+C:\Users\HP\Desktop\Phung\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.LopHoc.resources
+C:\Users\HP\Desktop\Phung\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.Main.resources
+C:\Users\HP\Desktop\Phung\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.MoiGiang.resources
+C:\Users\HP\Desktop\Phung\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.User.resources
+C:\Users\HP\Desktop\Phung\QLGV - Giao dien\QLGV\obj\Debug\QLGV.csproj.GenerateResource.Cache
+C:\Users\Hoang Phung\Desktop\Phung\QLGV - Giao dien\QLGV\bin\Debug\QLGV.exe.config
+C:\Users\Hoang Phung\Desktop\Phung\QLGV - Giao dien\QLGV\obj\Debug\QLGV.csproj.ResolveComReference.cache
+C:\Users\Hoang Phung\Desktop\Phung\QLGV - Giao dien\QLGV\obj\Debug\QLGV.exe
+C:\Users\Hoang Phung\Desktop\Phung\QLGV - Giao dien\QLGV\obj\Debug\QLGV.pdb
+C:\Users\Hoang Phung\Desktop\Phung\QLGV - Giao dien\QLGV\bin\Debug\QLGV.exe
+C:\Users\Hoang Phung\Desktop\Phung\QLGV - Giao dien\QLGV\bin\Debug\QLGV.pdb
+C:\Users\Hoang Phung\Desktop\Phung\QLGV - Giao dien\QLGV\obj\Debug\QLGV.csprojResolveAssemblyReference.cache
+C:\Users\Hoang Phung\Desktop\Phung\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.DangNhap.resources
+C:\Users\Hoang Phung\Desktop\Phung\QLGV - Giao dien\QLGV\obj\Debug\QLGV.Form1.resources
+C:\Users\Hoang Phung\Desktop\Phung\QLGV - Giao dien\QLGV\obj\Debug\QLGV.Properties.Resources.resources
+C:\Users\Hoang Phung\Desktop\Phung\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.FormMonHoc.resources
+C:\Users\Hoang Phung\Desktop\Phung\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.LopHoc.resources
+C:\Users\Hoang Phung\Desktop\Phung\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.Main.resources
+C:\Users\Hoang Phung\Desktop\Phung\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.MoiGiang.resources
+C:\Users\Hoang Phung\Desktop\Phung\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.User.resources
+C:\Users\Hoang Phung\Desktop\Phung\QLGV - Giao dien\QLGV\obj\Debug\QLGV.csproj.GenerateResource.Cache
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV - Giao dien\QLGV\bin\Debug\QLGV.exe.config
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.csproj.ResolveComReference.cache
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.exe
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.pdb
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV - Giao dien\QLGV\bin\Debug\QLGV.exe
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV - Giao dien\QLGV\bin\Debug\QLGV.pdb
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.csprojResolveAssemblyReference.cache
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.DangNhap.resources
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.Form1.resources
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.Properties.Resources.resources
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.FormMonHoc.resources
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.Main.resources
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.MoiGiang.resources
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.Thongtinnhom.resources
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.User.resources
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.csproj.GenerateResource.Cache
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.LopHocc.resources
+F:\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\bin\Debug\QLGV.exe.config
+F:\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.csproj.ResolveComReference.cache
+F:\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.exe
+F:\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.pdb
+F:\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.csprojResolveAssemblyReference.cache
+F:\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.DangNhap.resources
+F:\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.Form1.resources
+F:\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.Properties.Resources.resources
+F:\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.FormMonHoc.resources
+F:\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.LopHocc.resources
+F:\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.Main.resources
+F:\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.MoiGiang.resources
+F:\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.Thongtinnhom.resources
+F:\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.User.resources
+F:\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.csproj.GenerateResource.Cache
+F:\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\bin\Debug\QLGV.exe
+F:\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\bin\Debug\QLGV.pdb
+F:\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\Interop.WMPLib.dll
+F:\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\bin\Debug\QLGV.exe.config
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\Interop.WMPLib.dll
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.csproj.ResolveComReference.cache
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.exe
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.pdb
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\bin\Debug\QLGV.exe
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\bin\Debug\QLGV.pdb
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.csprojResolveAssemblyReference.cache
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.DangNhap.resources
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.Form1.resources
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.Properties.Resources.resources
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.FormMonHoc.resources
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.LopHocc.resources
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.Main.resources
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.MoiGiang.resources
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.Thongtinnhom.resources
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.User.resources
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.csproj.GenerateResource.Cache
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final1\Đồ án Final\QLGV - Giao dien\QLGV\bin\Debug\QLGV.exe.config
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final1\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final1\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\Interop.WMPLib.dll
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final1\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.csproj.ResolveComReference.cache
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final1\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.exe
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final1\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.pdb
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final1\Đồ án Final\QLGV - Giao dien\QLGV\bin\Debug\QLGV.exe
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final1\Đồ án Final\QLGV - Giao dien\QLGV\bin\Debug\QLGV.pdb
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final1\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.csprojResolveAssemblyReference.cache
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final1\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.DangNhap.resources
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final1\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.Form1.resources
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final1\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.Properties.Resources.resources
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final1\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.FormMonHoc.resources
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final1\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.LopHocc.resources
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final1\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.Main.resources
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final1\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.MoiGiang.resources
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final1\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.Thongtinnhom.resources
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final1\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.View.User.resources
+C:\Users\Hoang Phung\Desktop\Đồ-án-Final1\Đồ án Final\QLGV - Giao dien\QLGV\obj\Debug\QLGV.csproj.GenerateResource.Cache
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV\bin\Debug\QLGV.exe.config
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV\obj\Debug\Interop.WMPLib.dll
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV\obj\Debug\QLGV.csproj.ResolveComReference.cache
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV\obj\Debug\QLGV.exe
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV\obj\Debug\QLGV.pdb
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV\bin\Debug\QLGV.exe
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV\bin\Debug\QLGV.pdb
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV\obj\Debug\QLGV.csprojResolveAssemblyReference.cache
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV\obj\Debug\QLGV.View.DangNhap.resources
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV\obj\Debug\QLGV.Form1.resources
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV\obj\Debug\QLGV.Properties.Resources.resources
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV\obj\Debug\QLGV.View.FormMonHoc.resources
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV\obj\Debug\QLGV.View.LopHocc.resources
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV\obj\Debug\QLGV.View.Main.resources
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV\obj\Debug\QLGV.View.MoiGiang.resources
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV\obj\Debug\QLGV.View.Thongtinnhom.resources
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV\obj\Debug\QLGV.View.User.resources
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV\obj\Debug\QLGV.csproj.GenerateResource.Cache
+C:\Users\Hoang Phung\Desktop\Đồ án Final\QLGV\bin\Debug\buttonplaystop.dll
+C:\Users\Hoang Phung\Desktop\Đồ án Final\Đồ án Final\QLGV\bin\Debug\QLGV.exe.config
+C:\Users\Hoang Phung\Desktop\Đồ án Final\Đồ án Final\QLGV\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Hoang Phung\Desktop\Đồ án Final\Đồ án Final\QLGV\obj\Debug\Interop.WMPLib.dll
+C:\Users\Hoang Phung\Desktop\Đồ án Final\Đồ án Final\QLGV\obj\Debug\QLGV.csproj.ResolveComReference.cache
+C:\Users\Hoang Phung\Desktop\Đồ án Final\Đồ án Final\QLGV\obj\Debug\QLGV.exe
+C:\Users\Hoang Phung\Desktop\Đồ án Final\Đồ án Final\QLGV\obj\Debug\QLGV.pdb
+C:\Users\Hoang Phung\Desktop\Đồ án Final\Đồ án Final\QLGV\obj\Debug\QLGV.csprojResolveAssemblyReference.cache
+C:\Users\Hoang Phung\Desktop\Đồ án Final\Đồ án Final\QLGV\obj\Debug\QLGV.View.DangNhap.resources
+C:\Users\Hoang Phung\Desktop\Đồ án Final\Đồ án Final\QLGV\obj\Debug\QLGV.Form1.resources
+C:\Users\Hoang Phung\Desktop\Đồ án Final\Đồ án Final\QLGV\obj\Debug\QLGV.Properties.Resources.resources
+C:\Users\Hoang Phung\Desktop\Đồ án Final\Đồ án Final\QLGV\obj\Debug\QLGV.View.FormMonHoc.resources
+C:\Users\Hoang Phung\Desktop\Đồ án Final\Đồ án Final\QLGV\obj\Debug\QLGV.View.LopHocc.resources
+C:\Users\Hoang Phung\Desktop\Đồ án Final\Đồ án Final\QLGV\obj\Debug\QLGV.View.Main.resources
+C:\Users\Hoang Phung\Desktop\Đồ án Final\Đồ án Final\QLGV\obj\Debug\QLGV.View.MoiGiang.resources
+C:\Users\Hoang Phung\Desktop\Đồ án Final\Đồ án Final\QLGV\obj\Debug\QLGV.View.Thongtinnhom.resources
+C:\Users\Hoang Phung\Desktop\Đồ án Final\Đồ án Final\QLGV\obj\Debug\QLGV.View.User.resources
+C:\Users\Hoang Phung\Desktop\Đồ án Final\Đồ án Final\QLGV\obj\Debug\QLGV.csproj.GenerateResource.Cache
+C:\Users\Hoang Phung\Desktop\Đồ án Final\Đồ án Final\QLGV\bin\Debug\QLGV.exe
+C:\Users\Hoang Phung\Desktop\Đồ án Final\Đồ án Final\QLGV\bin\Debug\QLGV.pdb
